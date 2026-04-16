@@ -34,16 +34,9 @@ https://aapl-and-msft-jxjduvdzrgzqpkzspiwis4.streamlit.app/
 
 Users can directly open the link in a browser to explore all functions without local installation or configuration.
 
-## 6. How to Run Locally
-1. Install required libraries:
-pip install -r requirements.txt
-2. Launch the dashboard locally:
-streamlit run app.py
-3. Access the interactive interface via a web browser at:
-http://localhost:8001
 
-## 7. Key Observations and Analysis Results
+## 6. Key Observations and Analysis Results
 Apple maintains a consistently high net profit margin due to its strong brand pricing power and product premium strategy. Microsoft shows steady and sustainable growth in profitability driven by its cloud services and enterprise software segments. Both companies maintain healthy liquidity and moderate leverage, ensuring financial stability. Apple demonstrates relatively higher asset turnover, while Microsoft focuses on high-margin recurring revenue.
 
-## 8. Conclusion
+## 7. Conclusion
 This project integrates data extraction, ratio computation, statistical analysis, and interactive visualization in a complete workflow. The dashboard allows users to dynamically explore financial differences, strategic characteristics, and performance trends between two leading global technology firms. It serves as an effective tool for financial analysis, learning demonstration, and data-driven decision-making.
