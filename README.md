@@ -37,6 +37,8 @@ Users can directly open the link in a browser to explore all functions without l
 
 ## 6. Key Observations and Analysis Results
 Apple maintains a consistently high net profit margin due to its strong brand pricing power and product premium strategy. Microsoft shows steady and sustainable growth in profitability driven by its cloud services and enterprise software segments. Both companies maintain healthy liquidity and moderate leverage, ensuring financial stability. Apple demonstrates relatively higher asset turnover, while Microsoft focuses on high-margin recurring revenue.
+## 7. Reflection
+This project helped me combine financial knowledge with programming skills. I overcame challenges in data formatting and deployment, improving my debugging abilities. In the future, I could enrich the dashboard with more companies or indicators to enhance comprehensiveness.
 
-## 7. Conclusion
+## 8. Conclusion
 This project integrates data extraction, ratio computation, statistical analysis, and interactive visualization in a complete workflow. The dashboard allows users to dynamically explore financial differences, strategic characteristics, and performance trends between two leading global technology firms. It serves as an effective tool for financial analysis, learning demonstration, and data-driven decision-making.
